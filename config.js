@@ -1,1 +1,1 @@
-console.log("version 1 is created for the project");
+console.log("version 2 is created for the project");
