@@ -1,1 +1,1 @@
-console.log("index page for vertion 11 is created");
+console.log("index page for vertion 12 is created");
